@@ -1,4 +1,5 @@
-Author -  Pooja Tikhe (Software Engineer at Nitor Infotech)
+Author -  Pooja Tikhe (S/W Engineer at Nitor Infotech)
+
 INTRODUCTION -
 --------------------------------------------------------------------------------------------------------
 In today's interconnected world, seamless collaboration on documents among multiple users is 
